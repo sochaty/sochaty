@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.sourishchakraborty.com/blog](https://www.sourishchakraborty.com/blog)
 
-- 💬 Ask me about **Terraform,DevOps,CI/CD,AWS,Azure**
+- 💬 Ask me about **Terraform,DevOps,CI/CD,AWS,Azure,Microservices,Containers**
 
 - 📫 How to reach me **sourish1978@gmail.com**
 
