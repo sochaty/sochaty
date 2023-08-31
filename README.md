@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Kubernetes deployment automation**
 
-- 🌱 I’m currently learning **GoLang,Ansible and GitLab**
+- 🌱 I’m currently learning **Platfroms**
 
 - 📝 I regularly write articles on [https://www.sourishchakraborty.com/blog](https://www.sourishchakraborty.com/blog)
 
