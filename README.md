@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Platfroms**
 
-- 📝 I regularly write articles on [https://www.sourishchakraborty.com/blog](https://www.sourishchakraborty.com/blog)
+- 📝 I regularly write articles on [https://www.sourishchakraborty.com/post](https://www.sourishchakraborty.com/post)
 
 - 💬 Ask me about **Terraform,DevOps,CI/CD,AWS,Azure,Microservices,Containers**
 
