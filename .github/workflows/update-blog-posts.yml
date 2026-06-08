@@ -14,10 +14,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch latest posts from blog RSS
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://blogs.sourishchakraborty.com/rss.xml"
-          max_post_count: 5
-          readme_path: README.md
-          commit_message: "chore: update README with latest blog posts"
+      - name: Fetch latest posts and update README
+        run: |
+          pip install feedparser -q
+          python3 - <<'EOF'
+          import re
+          import feedparser
+
+          feed = feedparser.parse('https://sourishchakraborty.com/rss.xml')
+          posts = feed.entries[:5]
+          lines = [f"- [{p.title}]({p.link})" for p in posts]
+          block = "\n".join(lines)
+
+          readme = open('README.md').read()
+          new_readme = re.sub(
+              r'<!-- BLOG-POST-LIST:START -->.*?<!-- BLOG-POST-LIST:END -->',
+              f'<!-- BLOG-POST-LIST:START -->\n{block}\n<!-- BLOG-POST-LIST:END -->',
+              readme,
+              flags=re.DOTALL,
+          )
+          open('README.md', 'w').write(new_readme)
+          print(f"Updated README with {len(posts)} posts")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "blog-post-bot"
+          git config user.email "blog-post-bot@example.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update README with latest blog posts")
+          git push
