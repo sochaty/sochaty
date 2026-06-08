@@ -5,30 +5,32 @@
 <h3 align="center">Building the infrastructure that makes AI work in production</h3>
 
 <p align="center">
-  <a href="https://sourishchakraborty.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
-  <a href="https://blogs.sourishchakraborty.com"><img src="https://img.shields.io/badge/Blog-0f172a?style=for-the-badge&logo=hashnode&logoColor=38bdf8" /></a>
-  <a href="https://www.linkedin.com/in/sourishchakraborty/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+  <a href="https://sourishchakraborty.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>&nbsp;
+  <a href="https://blogs.sourishchakraborty.com"><img src="https://img.shields.io/badge/Blog-0f172a?style=for-the-badge&logo=hashnode&logoColor=38bdf8" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sourishchakraborty/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sochaty&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
 </p>
 
+<br/>
+
 ---
 
-### About me
+### 👤 About me
 
 20+ years across platform engineering, SRE, and cloud-native architecture. Currently at **Ørsted** — engineering data platforms for renewable energy in Kuala Lumpur.
 
 On the side: writing open-source AI systems, building LLM stacks from scratch, and documenting what I learn at [blogs.sourishchakraborty.com](https://blogs.sourishchakraborty.com).
 
 ```text
-Current focus     →  AI-native infrastructure · LLM engineering · Platform automation
-Working on        →  Kubernetes deployment automation · Open-source AI coding tools
-Writing about     →  LLMs, DevOps, Cloud architecture, and everything in between
-Location          →  Kuala Lumpur, Malaysia
+🎯 Current focus  →  AI-native infrastructure · LLM engineering · Platform automation
+🔧 Working on     →  Kubernetes deployment automation · Open-source AI coding tools
+✍️  Writing about  →  LLMs, DevOps, Cloud architecture, and everything in between
+📍 Location       →  Kuala Lumpur, Malaysia
 ```
 
 ---
 
-### Tech stack
+### 🛠️ Tech stack
 
 **Cloud & Infrastructure**
 
@@ -62,34 +64,38 @@ Location          →  Kuala Lumpur, Malaysia
 
 ---
 
-### GitHub stats
+### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sochaty&show_icons=true&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&hide_border=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochaty&layout=compact&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&text_color=94a3b8&hide_border=false&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sochaty&show_icons=true&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true&hide_border=false" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochaty&layout=compact&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&text_color=94a3b8&hide_border=false&langs_count=6" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=sochaty&theme=dark&background=0f172a&border=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=sochaty&theme=dark&background=0f172a&border=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
 </p>
 
 ---
 
-### Latest writing
+### 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->[Building an AI Coding IDE from Scratch: A Full Open-Source Architecture](https://blogs.sourishchakraborty.com/open-source-ai-coding-ide-architecture) — 000 DD, YYYY[The Quest for Digital Intelligence: A Deep Dive into How LLMs are Built](https://blogs.sourishchakraborty.com/the-quest-for-digital-intelligence-a-deep-dive-into-how-llms-are-built) — 1818 DD, YYYY[LLM Engineering 101: Mastering the Modern AI Stack](https://blogs.sourishchakraborty.com/llm-engineering-101-mastering-the-modern-ai-stack) — 2727 DD, YYYY[From Code to Cloud: Mastering EKS Deployment with Terraform and GitHub Actions](https://blogs.sourishchakraborty.com/from-code-to-cloud-mastering-eks-deployment-with-terraform-and-github-actions) — 2020 DD, YYYY[Exploring AWS EKS with eksctl](https://blogs.sourishchakraborty.com/exploring-aws-eks-with-eksctl) — 1111 DD, YYYY<!-- BLOG-POST-LIST:END -->
 
-→ All posts at [blogs.sourishchakraborty.com](https://blogs.sourishchakraborty.com)
+<p align="right"><a href="https://blogs.sourishchakraborty.com">→ All posts</a></p>
 
 ---
 
-### Certifications
+### 🏅 Certifications
 
-![AWS Developer](https://img.shields.io/badge/AWS_Developer-Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![CKA](https://img.shields.io/badge/Certified_ScrumMaster-CSM-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL®_Foundation-6D2077?style=flat-square&logoColor=white)
+| | Certification |
+|---|---|
+| ☁️ | AWS Certified Developer – Associate |
+| ☁️ | AWS Certified Solutions Architect – Associate |
+| ☁️ | AWS Certified Cloud Practitioner |
+| 🔄 | Certified ScrumMaster (CSM) |
+| 📋 | ITIL® Foundation |
+| 🏗️ | Certified SAFe® 4 Practitioner |
 
 ---
 
