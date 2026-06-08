@@ -80,7 +80,13 @@ On the side: writing open-source AI systems, building LLM stacks from scratch, a
 
 ### 📝 Latest writing
 
-<!-- BLOG-POST-LIST:START -->[Building an AI Coding IDE from Scratch: A Full Open-Source Architecture](https://blogs.sourishchakraborty.com/open-source-ai-coding-ide-architecture) — 000 DD, YYYY[The Quest for Digital Intelligence: A Deep Dive into How LLMs are Built](https://blogs.sourishchakraborty.com/the-quest-for-digital-intelligence-a-deep-dive-into-how-llms-are-built) — 1818 DD, YYYY[LLM Engineering 101: Mastering the Modern AI Stack](https://blogs.sourishchakraborty.com/llm-engineering-101-mastering-the-modern-ai-stack) — 2727 DD, YYYY[From Code to Cloud: Mastering EKS Deployment with Terraform and GitHub Actions](https://blogs.sourishchakraborty.com/from-code-to-cloud-mastering-eks-deployment-with-terraform-and-github-actions) — 2020 DD, YYYY[Exploring AWS EKS with eksctl](https://blogs.sourishchakraborty.com/exploring-aws-eks-with-eksctl) — 1111 DD, YYYY<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Building an AI Coding IDE from Scratch: A Full Open-Source Architecture](https://blogs.sourishchakraborty.com/open-source-ai-coding-ide-architecture)
+- [The Quest for Digital Intelligence: A Deep Dive into How LLMs are Built](https://blogs.sourishchakraborty.com/the-quest-for-digital-intelligence-a-deep-dive-into-how-llms-are-built)
+- [LLM Engineering 101: Mastering the Modern AI Stack](https://blogs.sourishchakraborty.com/llm-engineering-101-mastering-the-modern-ai-stack)
+- [From Code to Cloud: Mastering EKS Deployment with Terraform and GitHub Actions](https://blogs.sourishchakraborty.com/from-code-to-cloud-mastering-eks-deployment-with-terraform-and-github-actions)
+- [Exploring AWS EKS with eksctl](https://blogs.sourishchakraborty.com/exploring-aws-eks-with-eksctl)
+<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blogs.sourishchakraborty.com">→ All posts</a></p>
 
