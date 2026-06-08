@@ -1,0 +1,25 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily at 6am UTC
+  workflow_dispatch:        # allow manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest posts from blog RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blogs.sourishchakraborty.com/rss.xml"
+          max_post_count: 5
+          readme_path: README.md
+          date_format: "MMM DD, YYYY"
+          template: "[$title]($url) — $date"
+          commit_message: "chore: update README with latest blog posts"
