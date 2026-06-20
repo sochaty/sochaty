@@ -81,11 +81,11 @@ On the side: writing open-source AI systems, building LLM stacks from scratch, a
 ### 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a PII Firewall for LLMs in a Weekend (and Caught My Own Leak)](https://blogs.sourishchakraborty.com/llm-pii-firewall-governance-engine)
 - [How Dhi Understands Your Entire Codebase: Multi-Language Tree-sitter, BM25, and Hybrid Search](https://blogs.sourishchakraborty.com/dhi-repository-intelligence)
 - [FIM Autocomplete at < 150ms: Tree-sitter, nomic Embeddings, and StarCoder2-3B on a Laptop](https://blogs.sourishchakraborty.com/dhi-fim-autocomplete-engine)
 - [Building an AI Coding IDE from Scratch: A Full Open-Source Architecture](https://blogs.sourishchakraborty.com/open-source-ai-coding-ide-architecture)
 - [The Quest for Digital Intelligence: A Deep Dive into How LLMs are Built](https://blogs.sourishchakraborty.com/the-quest-for-digital-intelligence-a-deep-dive-into-how-llms-are-built)
-- [LLM Engineering 101: Mastering the Modern AI Stack](https://blogs.sourishchakraborty.com/llm-engineering-101-mastering-the-modern-ai-stack)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blogs.sourishchakraborty.com">→ All posts</a></p>
