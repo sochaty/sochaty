@@ -1,110 +1,133 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=140&section=header&text=Sourish%20Chakraborty&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Engineer%20%C2%B7%20AI%2FLLM%20Infrastructure%20%C2%B7%20Cloud-Native&descAlignY=56&descSize=16&descColor=bae6fd" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Sourish%20Chakraborty&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Platform%20Engineering&descAlignY=58&descSize=14&descColor=c7d2fe" />
 </div>
 
-<h3 align="center">Building the infrastructure that makes AI work in production</h3>
-
 <p align="center">
-  <a href="https://sourishchakraborty.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>&nbsp;
-  <a href="https://blogs.sourishchakraborty.com"><img src="https://img.shields.io/badge/Blog-0f172a?style=for-the-badge&logo=hashnode&logoColor=38bdf8" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sourishchakraborty/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sochaty&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
+  <a href="https://sourishchakraborty.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="https://sourishchakraborty.com/writing"><img src="https://img.shields.io/badge/Writing-6366f1?style=for-the-badge&logo=rss&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sourishchakraborty/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sochaty&style=for-the-badge&color=6366f1&label=VIEWS" />
 </p>
 
 <br/>
 
----
+I build the infrastructure that makes AI work in production — reliable data foundations, LLM stacks, and the cloud platforms teams actually ship on.
 
-### 👤 About me
-
-20+ years across platform engineering, SRE, and cloud-native architecture. Currently at **Ørsted** — engineering data platforms for renewable energy in Kuala Lumpur.
-
-On the side: writing open-source AI systems, building LLM stacks from scratch, and documenting what I learn at [blogs.sourishchakraborty.com](https://blogs.sourishchakraborty.com).
+**25 years: GIS → software engineering → cloud infrastructure → data platforms → AI systems.**  
+Currently at **Ørsted**, engineering data platforms for renewable energy in Kuala Lumpur.
 
 ```text
-🎯 Current focus  →  AI-native infrastructure · LLM engineering · Platform automation
-🔧 Working on     →  Kubernetes deployment automation · Open-source AI coding tools
-✍️  Writing about  →  LLMs, DevOps, Cloud architecture, and everything in between
-📍 Location       →  Kuala Lumpur, Malaysia
+Current role    →  Senior Data Engineer, Ørsted
+Building        →  Dhi — open-source AI coding IDE
+                   LLM Governance Engine — safety & ROI platform for LLMs
+Writing about   →  AI infrastructure, data platforms, cloud-native engineering
+Open to         →  Consulting on AI infrastructure and cloud platform projects
 ```
 
 ---
 
-### 🛠️ Tech stack
+### Open Source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Dhi](https://github.com/sochaty/dhi) — AI Coding IDE
+
+GPU-accessible coding assistant built for engineers who want real AI tooling without API costs. FIM autocomplete at &lt;150ms using Tree-sitter context extraction, nomic embeddings, and StarCoder2-3B on vLLM. Multi-language repository intelligence via hybrid BM25 + vector search.
+
+`Python` · `vLLM` · `Tree-sitter` · `LangGraph` · `nomic`
+
+</td>
+<td width="50%" valign="top">
+
+#### [LLM Governance Engine](https://github.com/sochaty/llm-governance-engine) — Safety & ROI Platform
+
+PII firewall, YAML-driven governance rules engine, and benchmarking platform for evaluating frontier models against open-source alternatives. Audit trail, webhook alerts, and cost/quality ROI scoring.
+
+`Python` · `FastAPI` · `LangChain` · `YAML rules engine`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+**AI & Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-6366f1?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=flat-square&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-6366f1?style=flat-square&logoColor=white)
+![Tree--sitter](https://img.shields.io/badge/Tree--sitter-6366f1?style=flat-square&logoColor=white)
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-6366f1?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-6366f1?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6366f1?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-6366f1?style=flat-square&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-6366f1?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6366f1?style=flat-square&logo=docker&logoColor=white)
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**AI / LLM**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/Go-6366f1?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-6366f1?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **CI/CD & Observability**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6366f1?style=flat-square&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-6366f1?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-6366f1?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-### 📊 GitHub stats
+### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sochaty&show_icons=true&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sochaty&show_icons=true&bg_color=1e1b4b&border_color=6366f1&title_color=a5b4fc&icon_color=a5b4fc&text_color=c7d2fe&count_private=true&hide_border=false" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochaty&layout=compact&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&text_color=94a3b8&hide_border=false&langs_count=6" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com/?user=sochaty&theme=dark&background=0f172a&border=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochaty&layout=compact&bg_color=1e1b4b&border_color=6366f1&title_color=a5b4fc&text_color=c7d2fe&hide_border=false&langs_count=6" />
 </p>
 
 ---
 
-### 📝 Latest writing
+### Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a PII Firewall for LLMs in a Weekend (and Caught My Own Leak)](https://blogs.sourishchakraborty.com/llm-pii-firewall-governance-engine)
-- [How Dhi Understands Your Entire Codebase: Multi-Language Tree-sitter, BM25, and Hybrid Search](https://blogs.sourishchakraborty.com/dhi-repository-intelligence)
-- [FIM Autocomplete at < 150ms: Tree-sitter, nomic Embeddings, and StarCoder2-3B on a Laptop](https://blogs.sourishchakraborty.com/dhi-fim-autocomplete-engine)
-- [Building an AI Coding IDE from Scratch: A Full Open-Source Architecture](https://blogs.sourishchakraborty.com/open-source-ai-coding-ide-architecture)
-- [The Quest for Digital Intelligence: A Deep Dive into How LLMs are Built](https://blogs.sourishchakraborty.com/the-quest-for-digital-intelligence-a-deep-dive-into-how-llms-are-built)
+- [I Built a PII Firewall for LLMs in a Weekend (and Caught My Own Leak)](https://sourishchakraborty.com/llm-pii-firewall-governance-engine)
+- [How Dhi Understands Your Entire Codebase: Multi-Language Tree-sitter, BM25, and Hybrid Search](https://sourishchakraborty.com/dhi-repository-intelligence)
+- [FIM Autocomplete at < 150ms: Tree-sitter, nomic Embeddings, and StarCoder2-3B on a Laptop](https://sourishchakraborty.com/dhi-fim-autocomplete-engine)
+- [Building an AI Coding IDE from Scratch: A Full Open-Source Architecture](https://sourishchakraborty.com/open-source-ai-coding-ide-architecture)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="right"><a href="https://blogs.sourishchakraborty.com">→ All posts</a></p>
+<p align="right"><a href="https://sourishchakraborty.com/writing">→ All writing</a></p>
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
-| | Certification |
-|---|---|
-| ☁️ | AWS Certified Developer – Associate |
-| ☁️ | AWS Certified Solutions Architect – Associate |
-| ☁️ | AWS Certified Cloud Practitioner |
-| 🔄 | Certified ScrumMaster (CSM) |
-| 📋 | ITIL® Foundation |
-| 🏗️ | Certified SAFe® 4 Practitioner |
+<table>
+<tr>
+<td>Microsoft Certified: Azure Solutions Architect Expert</td>
+<td>Microsoft Certified: DevOps Engineer Expert</td>
+</tr>
+<tr>
+<td>Microsoft Certified: Azure Administrator Associate</td>
+<td>HashiCorp Certified: Terraform Associate</td>
+</tr>
+<tr>
+<td>AWS Certified Solutions Architect – Associate</td>
+<td>AWS Certified Developer – Associate</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
 </div>
