@@ -103,6 +103,7 @@ PII firewall, YAML-driven governance rules engine, and benchmarking platform for
 - [How Dhi Understands Your Entire Codebase: Multi-Language Tree-sitter, BM25, and Hybrid Search](https://sourishchakraborty.com/dhi-repository-intelligence)
 - [FIM Autocomplete at < 150ms: Tree-sitter, nomic Embeddings, and StarCoder2-3B on a Laptop](https://sourishchakraborty.com/dhi-fim-autocomplete-engine)
 - [Building an AI Coding IDE from Scratch: A Full Open-Source Architecture](https://sourishchakraborty.com/open-source-ai-coding-ide-architecture)
+- [The Quest for Digital Intelligence: A Deep Dive into How LLMs are Built](https://sourishchakraborty.com/the-quest-for-digital-intelligence-a-deep-dive-into-how-llms-are-built)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://sourishchakraborty.com/writing">→ All writing</a></p>
