@@ -89,9 +89,11 @@ PII firewall, YAML-driven governance rules engine, and benchmarking platform for
 ### GitHub Stats
 
 <p align="center">
-  <img height="260" src="https://sourishchakraborty.com/api/og/github-stats?type=stats&username=sochaty&v=2" />
+  <img width="360" height="300" src="https://sourishchakraborty.com/api/og/github-stats?type=stats&username=sochaty&v=3" />
   &nbsp;
-  <img height="280" src="https://sourishchakraborty.com/api/og/github-stats?type=langs&username=sochaty&v=2" />
+  <img width="360" height="300" src="https://sourishchakraborty.com/api/og/github-stats?type=streak&username=sochaty&v=3" />
+  &nbsp;
+  <img width="360" height="300" src="https://sourishchakraborty.com/api/og/github-stats?type=langs&username=sochaty&v=3" />
 </p>
 
 ---
